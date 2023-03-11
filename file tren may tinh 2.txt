@@ -1,2 +1,1 @@
-Dong thu 1 tren may tinh 1
-DOng thu 2 tren may tinh 2
+thay doi file nay tren may tinh 2
