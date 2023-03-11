@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thay doi file nay tren may tinh 2
+=======
+File nay tren may tinh 2
+>>>>>>> ef63c2343e48b50a692498b240eb4f960d307cb4
