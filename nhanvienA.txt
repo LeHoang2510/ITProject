@@ -9,3 +9,5 @@ Lo tay thay doi ==> Dua len stage
 DUNG GIT GUI HERE 
 
 Dung SourceTree
+
+sua hoai`
